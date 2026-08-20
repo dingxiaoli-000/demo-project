@@ -1,0 +1,240 @@
+{
+  "source": {
+    "file": "reference/site-reference.jpg",
+    "width": 2876,
+    "height": 8752,
+    "detected_format": "PNG",
+    "filename_extension": ".jpg",
+    "sha256": "a39dac4287deeb97196c12257ba25bc85d06f977804716dc36b4742c1e7e5632",
+    "authority": "唯一视觉事实源；所有裁图均为可再生派生工作视图"
+  },
+  "coordinate_system": "原图左上角为 (0, 0)，x 向右、y 向下，单位为像素；裁切矩形采用 x/y/width/height",
+  "overlap_policy": "语义边界上下各扩展 80px；因此相邻裁图的实际交叠为 160px。首尾仅向页面内部扩展。",
+  "sections": [
+    {
+      "id": "01-header-hero",
+      "title": "顶部导航与首屏 Hero",
+      "file": "reference/sections/01-header-hero.png",
+      "content_bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 2876,
+        "height": 1530
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 2876,
+        "height": 1610
+      },
+      "overlap": {
+        "top": 0,
+        "bottom": 80,
+        "with_previous": 0,
+        "with_next": 160
+      },
+      "purpose": "全局导航、主标题、CTA、工程大脑主视觉与 Agent 标签",
+      "sha256": "6f9a2576716ce24104b773166e8ea5cf08845b004bdd495b9ce52410b3297a3a"
+    },
+    {
+      "id": "02-key-metrics",
+      "title": "四项核心指标",
+      "file": "reference/sections/02-key-metrics.png",
+      "content_bounds": {
+        "x": 0,
+        "y": 1530,
+        "width": 2876,
+        "height": 650
+      },
+      "crop": {
+        "x": 0,
+        "y": 1450,
+        "width": 2876,
+        "height": 810
+      },
+      "overlap": {
+        "top": 80,
+        "bottom": 80,
+        "with_previous": 160,
+        "with_next": 160
+      },
+      "purpose": "采购响应、成本降低、核算周期与 BIM 预测数据卡",
+      "sha256": "9b6333da2fb552f4cd074d91a65e954f7085f2ce88056642e466661c5393005b"
+    },
+    {
+      "id": "03-management-problems",
+      "title": "传统管理四大黑箱",
+      "file": "reference/sections/03-management-problems.png",
+      "content_bounds": {
+        "x": 0,
+        "y": 2180,
+        "width": 2876,
+        "height": 760
+      },
+      "crop": {
+        "x": 0,
+        "y": 2100,
+        "width": 2876,
+        "height": 920
+      },
+      "overlap": {
+        "top": 80,
+        "bottom": 80,
+        "with_previous": 160,
+        "with_next": 160
+      },
+      "purpose": "区块标题及进度、材料、成本、协同四张问题卡",
+      "sha256": "7d8e91d3624ea78de2e641881bc069583f369b9fb965c013f0c28b8dbbb7c39a"
+    },
+    {
+      "id": "04-platform-architecture",
+      "title": "工程大脑中枢与业务层级",
+      "file": "reference/sections/04-platform-architecture.png",
+      "content_bounds": {
+        "x": 0,
+        "y": 2940,
+        "width": 2876,
+        "height": 1360
+      },
+      "crop": {
+        "x": 0,
+        "y": 2860,
+        "width": 2876,
+        "height": 1520
+      },
+      "overlap": {
+        "top": 80,
+        "bottom": 80,
+        "with_previous": 160,
+        "with_next": 160
+      },
+      "purpose": "工程大脑、Agent 标签、五层业务架构说明",
+      "sha256": "a19bd545b697a682313cf59c1363844bced985705c5f61736e8b034c65136fe3"
+    },
+    {
+      "id": "05-intelligent-modules",
+      "title": "五大智能模块",
+      "file": "reference/sections/05-intelligent-modules.png",
+      "content_bounds": {
+        "x": 0,
+        "y": 4300,
+        "width": 2876,
+        "height": 1020
+      },
+      "crop": {
+        "x": 0,
+        "y": 4220,
+        "width": 2876,
+        "height": 1180
+      },
+      "overlap": {
+        "top": 80,
+        "bottom": 80,
+        "with_previous": 160,
+        "with_next": 160
+      },
+      "purpose": "五张模块卡及对应 3D 功能插画",
+      "sha256": "c679f650ab7239d88dec3d5ed1ff7638f27d71306f8bc145feb3675aae130f4c"
+    },
+    {
+      "id": "06-case-study",
+      "title": "真实项目案例",
+      "file": "reference/sections/06-case-study.png",
+      "content_bounds": {
+        "x": 0,
+        "y": 5320,
+        "width": 2876,
+        "height": 1220
+      },
+      "crop": {
+        "x": 0,
+        "y": 5240,
+        "width": 2876,
+        "height": 1380
+      },
+      "overlap": {
+        "top": 80,
+        "bottom": 80,
+        "with_previous": 160,
+        "with_next": 160
+      },
+      "purpose": "项目鸟瞰图、案例说明、指标数据与执行时间轴",
+      "sha256": "9455f74d53f6607069527b460ddc15e04b71d50c034bb4d6cd5df99858ffc689"
+    },
+    {
+      "id": "07-whitepapers",
+      "title": "AI 白皮书资源区",
+      "file": "reference/sections/07-whitepapers.png",
+      "content_bounds": {
+        "x": 0,
+        "y": 6540,
+        "width": 2876,
+        "height": 1200
+      },
+      "crop": {
+        "x": 0,
+        "y": 6460,
+        "width": 2876,
+        "height": 1360
+      },
+      "overlap": {
+        "top": 80,
+        "bottom": 80,
+        "with_previous": 160,
+        "with_next": 160
+      },
+      "purpose": "白皮书封面、三张资源卡与下载操作",
+      "sha256": "8ab18e0cffa1acb02c8da0722697c673979b6d1f80ab609a975dafb15b6091be"
+    },
+    {
+      "id": "08-bottom-cta",
+      "title": "底部行动召唤",
+      "file": "reference/sections/08-bottom-cta.png",
+      "content_bounds": {
+        "x": 0,
+        "y": 7740,
+        "width": 2876,
+        "height": 550
+      },
+      "crop": {
+        "x": 0,
+        "y": 7660,
+        "width": 2876,
+        "height": 710
+      },
+      "overlap": {
+        "top": 80,
+        "bottom": 80,
+        "with_previous": 160,
+        "with_next": 160
+      },
+      "purpose": "底部 CTA、双按钮与未来城市插画",
+      "sha256": "4c9475010e564104272de27707857bd78d10a04503746aedf38a21c37958bc0a"
+    },
+    {
+      "id": "09-footer",
+      "title": "页脚",
+      "file": "reference/sections/09-footer.png",
+      "content_bounds": {
+        "x": 0,
+        "y": 8290,
+        "width": 2876,
+        "height": 462
+      },
+      "crop": {
+        "x": 0,
+        "y": 8210,
+        "width": 2876,
+        "height": 542
+      },
+      "overlap": {
+        "top": 80,
+        "bottom": 0,
+        "with_previous": 160,
+        "with_next": 0
+      },
+      "purpose": "品牌简介、链接栏目、联系方式与版权信息",
+      "sha256": "c81ca78c97800b1a700c32f07cc28ae621df77f01fcb6d933cc38cd93606deeb"
+    }
+  ]
+}

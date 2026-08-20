@@ -1,0 +1,5 @@
+.DS_Store
+
+# Regenerable reference working views (keep manifest only)
+reference/sections/*.png
+
