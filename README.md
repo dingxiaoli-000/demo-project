@@ -1,6 +1,6 @@
 # Pmagic AI Landing Page
 
-根据视觉参考图实现的独立响应式产品官网，使用语义化 HTML、CSS 与原生 JavaScript 构建。
+前端示例项目：根据视觉参考图复刻页面与交互效果，使用语义化 HTML、CSS 与原生 JavaScript 构建独立响应式产品官网。
 
 ## 本地预览
 
@@ -27,4 +27,3 @@ python3 -m http.server 8000
 ```bash
 python3 scripts/generate_reference_crops.py
 ```
-
